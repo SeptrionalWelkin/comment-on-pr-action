@@ -1,4 +1,6 @@
-name: Comment on PR
+name: Auto comment on PR template
+
+description: "A GitHub Action to comment on a PR"
 
 on:
   pull_request:
